@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "[markdown]": {
+        "editor.wordWrap": "off",
+        "editor.renderWhitespace": "trailing",
+	"files.trimTrailingWhitespace": false
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "static/lunr-index.json": true
+    },
+    "cSpell.language": "nb",
+    "cSpell.words": [
+        "lenketjenester",
+        "noen"
+    ]
+}

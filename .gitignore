@@ -1,0 +1,8 @@
+public
+*.exe
+*.doc
+*.docx
+*.db
+.vs
+.DS_Store
+.hugo_build.lock
